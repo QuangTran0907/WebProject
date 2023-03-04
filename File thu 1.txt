@@ -1,1 +1,6 @@
+
 them noi dung file 1 may 1
+
+them noi dung file 1 may 2
+
+Noi dung buoi hoc git GUI
