@@ -1,1 +1,3 @@
 Duoc tao boi nhan vien B
+
+Chinh sua file cua nhan vien B
