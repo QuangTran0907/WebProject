@@ -3,4 +3,7 @@ them noi dung file 1 may 1
 
 them noi dung file 1 may 2
 
+<<<<<<< HEAD
 Noi dung buoi hoc git GUI
+=======
+>>>>>>> 8051374e9aec0da5b503ed959209286cd4aa6c3a
