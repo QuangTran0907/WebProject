@@ -9,3 +9,5 @@ Sua file 3 may 3
 
 Sua file 3 may 3 nhanh C
 
+Tao conflict nhanh main
+
